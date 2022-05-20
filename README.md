@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming 
 - 🌱 I’m currently doing CDAC
 
-- 📫 How to reach me  
+- 📫reach me at  
 - email:getsnik21@gmail.com
 
 <!---
